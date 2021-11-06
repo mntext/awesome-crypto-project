@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+Token  | Security  | Community  | Application
+---|---|---|--- 
+ BTC | ★★★★★ |  ★★★★★ |  ★★★
+
 ## How is BTC security? Is it decentralized?
 
 ## How many holders, trading volume,  and staking?
